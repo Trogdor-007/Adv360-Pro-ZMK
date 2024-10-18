@@ -3,6 +3,8 @@ compatible = "zmk,behavior-macro";
 label = "macro_print_screen";
 #binding-cells = <0>;
 bindings = <&kp RIGHT_COMMAND>, <&kp RIGHT_SHIFT>, <&kp N4>;
+hold = <&kp LCTRL>, <&kp LSHIFT>;
+tap = <&kp 4>;
 };
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
