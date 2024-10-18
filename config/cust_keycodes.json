@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"RCMD(LS(N4))"
+		],
+		"description": "RCMD(LS(N4))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
